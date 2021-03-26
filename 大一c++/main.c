@@ -1,3 +1,5 @@
+/*Made By Youngsc*/
+
 # include <windows.h>
 # include <conio.h>
 # include <stdio.h>
@@ -402,3 +404,5 @@ int main(){
 
 	return 0;
 }
+
+
